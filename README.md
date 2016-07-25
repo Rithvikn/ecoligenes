@@ -21,7 +21,7 @@ Alcohol dehydrogenases are a group of dehydrogenase enzymes that occur in many o
 
 choline dehydrogenase
 Found into mitochondria of the human cell as well as ecoli.
-n enzymology, a choline dehydrogenase (EC 1.1.99.1) is an enzyme that catalyzes the chemical reaction
+n enzymology, a choline dehydrogenase is an enzyme that catalyzes the chemical reaction
 choline + acceptor =  betaine aldehyde + reduced acceptor
 Thus, the two substrates of this enzyme are choline and acceptor, whereas its two products are betaine aldehyde and reduced acceptor.
 This enzyme belongs to the family of oxidoreductases, specifically those acting on the CH-OH group of donor with other acceptors.
